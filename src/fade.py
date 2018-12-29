@@ -1,10 +1,5 @@
 #coding: utf-8
 
-# Universidade Federal de Campina Grande - UFCG
-# Arthur Silva Lima Guedes - 118110410
-# Atividade 3 - FMCC2
-# Professor: Thiago Emmanuel
-
 from PIL import Image
 
 # Função principal
